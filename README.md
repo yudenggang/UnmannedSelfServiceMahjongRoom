@@ -161,3 +161,28 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
     <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734246443493.jpg" width="350"/>
 </div>
 
+**用户端小程序思维导图**
+---
+
+
+
+<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734255151063.jpg" alt="1734255151063" style="zoom:80%;" />
+
+
+
+**PC管理端思维导图**
+---
+
+<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734255228092.jpg" alt="1734255228092" style="zoom:80%;" />
+
+
+
+**小程序门店管理端思维导图**
+---
+
+<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734255282778.jpg" alt="1734255282778" style="zoom:80%;" />
+
+**小程序保洁员端思维导图**
+---
+
+<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734255315976.jpg" alt="1734255315976" style="zoom:80%;" />
