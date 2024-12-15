@@ -18,9 +18,10 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="250"/> &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/image-20241216043126233.png" height="540"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order.jpg" width="250"/>
 </div>
+
 
 
 
@@ -200,4 +201,3 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
    <span>搜索微信小程序: 漫云居共享空间</span>
    <span>联系QQ: 747694700 备注：漫云居共享空间</span>
 </div>
-
