@@ -14,13 +14,20 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="250"/>
-    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="250"/>
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="250"/> &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order.jpg" width="250"/>
 </div>
 
 
 
-<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" alt="homePage" style="zoom: 33%;" />
+<div align=center>
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/storeIndex2.jpg" width="250"/> &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order.jpg" width="250"/>
+</div>
+
+
+
+<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" alt="homePage" style="zoom: 33%;" /
 
 <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order.jpg" alt="order" style="zoom: 33%;" />
 
