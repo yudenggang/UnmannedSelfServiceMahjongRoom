@@ -9,4 +9,3 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 功能演示
 ---
 
-![homePage](D:\project\share\UnmannedSelfServiceMahjongRoom\homePage.jpg)
