@@ -13,10 +13,10 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 
 
 
-<center class="half">
+<div align=center>
     <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="250"/>
     <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="250"/>
-</center>
+</div>
 
 
 
