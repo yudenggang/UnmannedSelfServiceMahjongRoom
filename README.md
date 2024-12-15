@@ -4,7 +4,11 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
  技术栈
 ---
 
-后台服务 springboot+mybatisplus+mysql 用户端 uniapp（vue语法） 管理后台 vue+elementUi
+1. 后台服务 springboot+
+2. mybatisplus+
+3. 数据库mysql 用户端
+4. 用户端uniapp2（vue语法） 
+5. 管理后台 vue2+elementUi
 
 功能演示
 ---
