@@ -190,3 +190,13 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 ---
 
 <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734255315976.jpg" alt="1734255315976" style="zoom:80%;" />
+
+演示小程序
+
+
+
+<div align=center>
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/image-20241215174414342.png" width="350"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <span>搜索微信号: 漫云居共享空间</span>
+</div>
+
