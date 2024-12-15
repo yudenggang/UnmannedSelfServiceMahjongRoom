@@ -9,13 +9,24 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 功能演示
 ---
 
+
+
+
+
+<center class="half">
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="300"/>
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" width="300"/>
+</center>
+
+
+
 <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/homePage.jpg" alt="homePage" style="zoom: 33%;" />
 
 <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order.jpg" alt="order" style="zoom: 33%;" />
 
 <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order2.jpg" alt="order2" style="zoom: 33%;" />   <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245770222.jpg" alt="1734245770222" style="zoom: 33%;" />
 
-<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245795891.jpg" alt="1734245795891" style="zoom: 33%;" />  <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245812763.jpg" alt="1734245812763" style="zoom: 33%;" />  
+<img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245795891.jpg" alt="1734245795891" style="zoom: 33%;" />  <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245812763.jpg" alt="1734245812763" style="zoom:50%;" />  
 
 <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245833660.jpg" alt="1734245833660" style="zoom:50%;" />  <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/1734245854118.jpg" alt="1734245854118" style="zoom:50%;" /> 
 
