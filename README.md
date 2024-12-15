@@ -15,10 +15,8 @@ Unmanned-self-service-mahjong-room无人自助麻将室小程序
 
 
 
-
-
 <div align=center>
-    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/image-20241216043126233.png" height="540"/> &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/image-20241216052643694.png" height="540"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/yudenggang/UnmannedSelfServiceMahjongRoom/main/order.jpg" width="250"/>
 </div>
 
